@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+.concat-style {
+  padding-left: 6px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: sans-serif
+}
+.chkstl {
+  width: 14px;
+  height: 14px
+}
